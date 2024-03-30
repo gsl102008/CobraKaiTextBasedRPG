@@ -8,9 +8,7 @@ Software Demo Video
 ## Development Environment
 The software was developed using the following tools:
 
-IDE: IntelliJ IDEA
-Programming Language: Java
-Libraries: None used in this project
+- **Java**
 # Useful Websites
 During the development process, the following websites were invaluable resources:
 
