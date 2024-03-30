@@ -64,13 +64,13 @@ public class TextBasedRPG {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.println("Cobra Kai Never Dies...or does it? Let's find out if you can be the one to defeat Cobra Kai...");
+        System.out.println("Cobra Kai Never Dies...or does it? Let's find out if you can defeat Cobra Kai...");
         System.out.print("What is your fighters name: ");
         String playerName = scanner.nextLine();
         Player player = new Player(playerName, 100, 20);
 
         
-        System.out.println("Hello, " + player.name + "! Get ready for your adventure.");
+        System.out.println("Hello, " + player.name + "! Get ready to fight.");
 
         // Storyline
         System.out.println("One day you are out for a walk when you run into the infamous leader of Cobra Kai...");
