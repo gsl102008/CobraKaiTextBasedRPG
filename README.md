@@ -3,7 +3,8 @@ As a software engineer striving for continual learning and improvement, I develo
 
 The purpose of creating this software was twofold: to deepen my understanding of Java syntax and to apply object-oriented programming principles in a practical project. Through this project, I aimed to solidify my knowledge of fundamental Java concepts while also honing my problem-solving skills by implementing game mechanics and logic.
 
-Software Demo Video[
+# Software Demo Video
+[Java Project:Cobra Kai
 ](https://youtu.be/X-xM4yCO_BY)
 
 ## Development Environment
